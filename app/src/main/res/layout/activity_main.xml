@@ -77,7 +77,7 @@
         android:id="@+id/buttonGenerateResult"
         android:layout_width="160dp"
         android:layout_height="80dp"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="50dp"
         android:background="#50C878"
         android:text="GENERATE"
         android:textColor="@color/white"
@@ -89,7 +89,7 @@
     <TextView
         android:id="@+id/clickCount"
         android:layout_width="0dp"
-        android:layout_height="20dp"
+        android:layout_height="30dp"
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:textColor="#C0C0C0"
@@ -101,7 +101,7 @@
     <TextView
         android:id="@+id/numbers"
         android:layout_width="0dp"
-        android:layout_height="20dp"
+        android:layout_height="30dp"
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:textColor="#C0C0C0"
